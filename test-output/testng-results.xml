@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-15T15:23:21 IST" name="Suite" finished-at="2025-09-15T15:23:54 IST" duration-ms="33285">
+    <groups>
+    </groups>
+    <test started-at="2025-09-15T15:23:21 IST" name="Test" finished-at="2025-09-15T15:23:54 IST" duration-ms="33285">
+      <class name="com.testng.CrossBrowser">
+        <test-method signature="chrome()[pri:0, instance:com.testng.CrossBrowser@3eb25e1a]" started-at="2025-09-15T15:23:21 IST" name="chrome" finished-at="2025-09-15T15:23:54 IST" duration-ms="32890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chrome -->
+      </class> <!-- com.testng.CrossBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
